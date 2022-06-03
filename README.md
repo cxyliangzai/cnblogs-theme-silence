@@ -1,6 +1,8 @@
 # cnblogs-theme-silence
 🌈 博客园自定义主题，包含自定义导航栏、自定义动态背景、看板娘、标签人性化动效、刷新 loading 加载、设置主题模式、打赏二维码等
 
+![个人签名](https://cxyliangzai.github.io/u/signature.jpeg)
+
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/python->=3.0-ff69b4.svg" alt="python">
   <img src="https://img.shields.io/badge/lxml->=4.6.3-6bb59a.svg" alt="lxml">
@@ -30,13 +32,13 @@ cd cnblogs-theme-silence
 
 如果你觉得项目有用, 就请我喝杯奶茶吧 :tropical_drink:
 
-![donate](https://cxyliangzai.github.io/cxyliangzai/assets/imgs/sponsor.png)
+![donate](https://cxyliangzai.github.io/u/sponsor.png)
 
 ## 加入我们
 
 想学习更多的技术知识, 就关注我的个人公众号吧 :blush:
 
-![donate](https://cxyliangzai.github.io/cxyliangzai/assets/imgs/userinfo.png)
+![donate](https://cxyliangzai.github.io/u/userinfo.png)
 
 ## 浏览器支持情况
 
