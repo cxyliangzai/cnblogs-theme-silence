@@ -20,12 +20,12 @@
 
 - 详细部署步骤参考该篇文章 **[彰显个性│博客园的自定义主题](https://www.cnblogs.com/cxyliangzai/p/16336117.html)**
 
-```
+```bash
+# 第一步, 下载项目
 git clone https://github.com/cxyliangzai/cnblogs-theme-silence.git
 
+# 第一步, 进入项目目录, 将其中的资源部署到博客园的设置中即可
 cd cnblogs-theme-silence
-
-# 将其中的资源部署到博客园的设置中即可
 ```
 
 ## 项目贡献
