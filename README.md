@@ -24,7 +24,7 @@
 # 第一步, 下载项目
 git clone https://github.com/cxyliangzai/cnblogs-theme-silence.git
 
-# 第一步, 进入项目目录, 将其中的资源部署到博客园的设置中即可
+# 第二步, 进入项目目录, 将其中的资源部署到博客园的设置中即可
 cd cnblogs-theme-silence
 ```
 
