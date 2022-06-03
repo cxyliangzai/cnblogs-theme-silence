@@ -32,13 +32,13 @@ cd cnblogs-theme-silence
 
 如果你觉得项目有用, 就请我喝杯奶茶吧 :tropical_drink:
 
-![donate](https://cxyliangzai.github.io/u/sponsor.png)
+![捐赠](https://cxyliangzai.github.io/u/sponsor.png)
 
 ## 加入我们
 
 想学习更多的技术知识, 就关注我的个人公众号吧 :blush:
 
-![donate](https://cxyliangzai.github.io/u/userinfo.png)
+![关注](https://cxyliangzai.github.io/u/userinfo.png)
 
 ## 浏览器支持情况
 
