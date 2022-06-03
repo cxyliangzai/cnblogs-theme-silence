@@ -50,4 +50,4 @@ cd cnblogs-theme-silence
 
 [MIT](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/LICENSE)
 
-Copyright (c) 2021-present cxyliangzai
+Copyright (c) 2022-present cxyliangzai
