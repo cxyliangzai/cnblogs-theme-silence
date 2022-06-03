@@ -15,14 +15,15 @@
 - [人性化样式](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/custom.css)
 
 ## 基本使用
+
+- 详细部署步骤参考该篇文章 **(彰显个性│博客园的自定义主题)[https://www.cnblogs.com/cxyliangzai/p/16336117.html]**
+
 ```
 git clone https://github.com/cxyliangzai/cnblogs-theme-silence.git
 
 cd cnblogs-theme-silence
 
 # 将其中的资源部署到博客园的设置中即可
-
-# 详细部署步骤参考该篇文章 (彰显个性│博客园的自定义主题)[https://www.cnblogs.com/cxyliangzai/p/16336117.html]
 ```
 
 ## 项目贡献
