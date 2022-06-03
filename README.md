@@ -16,7 +16,7 @@
 
 ## 基本使用
 
-- 详细部署步骤参考该篇文章 **(彰显个性│博客园的自定义主题)[https://www.cnblogs.com/cxyliangzai/p/16336117.html]**
+- 详细部署步骤参考该篇文章 **[彰显个性│博客园的自定义主题](https://www.cnblogs.com/cxyliangzai/p/16336117.html)**
 
 ```
 git clone https://github.com/cxyliangzai/cnblogs-theme-silence.git
