@@ -14,9 +14,9 @@
 </p> -->
 
 ## 项目结构 - project structure
-- [看板娘加载 - Kanban woman loaded](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/autoload.js)
-- [动态背景 - Dynamic background](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/canvas-nest.min.js)
-- [人性化样式 - Personalized style](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/custom.css)
+- :herb:[看板娘加载 - Kanban woman loaded](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/autoload.js)
+- :herb:[动态背景 - Dynamic background](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/canvas-nest.min.js)
+- :herb:[人性化样式 - Personalized style](https://github.com/cxyliangzai/cnblogs-theme-silence/blob/main/custom.css)
 
 ## 基本使用 - The basic use
 
@@ -32,8 +32,8 @@ cd cnblogs-theme-silence
 
 ## 个人主页 - personal homepage
 
-- 欢迎关注个人主页 :tropical_drink:
-- Welcome to pay attention to personal homepage :tropical_drink:
+- 欢迎关注个人主页 :pushpin:
+- Welcome to pay attention to personal homepage :pushpin:
 
 ![公众号矩阵](https://cxyliangzai.github.io/u/attention/matrix.jpeg)
 
