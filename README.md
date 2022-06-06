@@ -53,13 +53,7 @@ cd cnblogs-theme-silence
 
 ## 浏览器支持情况 - Browser Support
 
-| <img src="https://cxyliangzai.github.io/common/svg/ie.svg" alt="IE / Edge" width="24px" height="24px" /></br>IE / Edge 
-| <img src="https://cxyliangzai.github.io/common/svg/firefox.svg" alt="Firefox" width="24px" height="24px" /></br>Firefox 
-| <img src="https://cxyliangzai.github.io/common/svg/chrome.svg" alt="Chrome" width="24px" height="24px" /></br>Chrome 
-| <img src="https://cxyliangzai.github.io/common/svg/safari.svg" alt="Safari" width="24px" height="24px" /></br>Safari 
-| <img src="https://cxyliangzai.github.io/common/svg/sogou.svg" alt="Sogou" width="24px" height="24px" /></br>Sogou 
-| <img src="https://cxyliangzai.github.io/common/svg/uc.svg" alt="UC" width="24px" height="24px" /></br>UC 
-| <img src="https://cxyliangzai.github.io/common/svg/360.svg" alt="360" width="24px" height="24px" /></br>360 |
+| <img src="https://cxyliangzai.github.io/common/svg/ie.svg" alt="IE / Edge" width="24px" height="24px" /></br>IE / Edge | <img src="https://cxyliangzai.github.io/common/svg/firefox.svg" alt="Firefox" width="24px" height="24px" /></br>Firefox | <img src="https://cxyliangzai.github.io/common/svg/chrome.svg" alt="Chrome" width="24px" height="24px" /></br>Chrome | <img src="https://cxyliangzai.github.io/common/svg/safari.svg" alt="Safari" width="24px" height="24px" /></br>Safari | <img src="https://cxyliangzai.github.io/common/svg/sogou.svg" alt="Sogou" width="24px" height="24px" /></br>Sogou | <img src="https://cxyliangzai.github.io/common/svg/uc.svg" alt="UC" width="24px" height="24px" /></br>UC | <img src="https://cxyliangzai.github.io/common/svg/360.svg" alt="360" width="24px" height="24px" /></br>360 |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 |
 
