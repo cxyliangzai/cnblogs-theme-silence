@@ -1,5 +1,6 @@
 # cnblogs-theme-silence
 🌈 博客园自定义主题，包含自定义导航栏、自定义动态背景、看板娘、标签人性化动效、刷新 loading 加载、设置主题模式、打赏二维码等
+
 🌈 Cnblogs custom theme, including custom navigation bar, custom dynamic background, kanban niang, humanized dynamic effect of tags, refresh loading, setting theme mode, qr code appreciation, etc
 
 ![个人签名](https://cxyliangzai.github.io/u/signature.jpeg)
@@ -29,15 +30,24 @@ git clone https://github.com/cxyliangzai/cnblogs-theme-silence.git
 cd cnblogs-theme-silence
 ```
 
+## 个人主页 - personal homepage
+
+- 欢迎关注个人主页 :tropical_drink:
+- Welcome to pay attention to personal homepage :tropical_drink:
+
+![公众号矩阵](https://cxyliangzai.github.io/u/attention/matrix.jpeg)
+
 ## 项目贡献 - Contribution to the project
 
-如果你觉得项目有用, 就请我喝杯奶茶吧 :tropical_drink:
+- 如果你觉得项目有用, 就请我喝杯奶茶吧 :tropical_drink:
+- If you think the project will help, buy me a cup of milk tea :tropical_drink:
 
 ![捐赠](https://cxyliangzai.github.io/u/sponsor.png)
 
 ## 加入我们 - join us
 
-想学习更多的技术知识, 就关注我的个人公众号吧 :blush:
+- 想学习更多的技术知识, 就关注我的个人公众号吧 :blush:
+- Want to learn more technical knowledge, follow my personal public account :blush:
 
 ![关注](https://cxyliangzai.github.io/u/userinfo.png)
 
